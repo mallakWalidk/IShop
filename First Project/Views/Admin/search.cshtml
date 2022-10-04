@@ -1,0 +1,54 @@
+﻿@model IEnumerable<OrderProduct>
+
+@{
+    ViewData["Title"] = "search";
+    Layout = "~/Views/Shared/AdminLayout.cshtml";
+}
+
+<form asp-action="search" method="post" class="form-group">
+    <input class="form-control mb-2 " name="startDate" type="date"/>
+    <input class="form-control " name="endDate" type="date"/>
+    <button class="btn btn-primary" type="submit">Search</button>
+</form>
+
+
+<table class="table mt-4" id="example">
+    <thead class="thead-dark">
+        <tr>
+            <th>
+                Customer Name
+            </th>
+
+            <th>
+                Amount
+            </th>
+        <th>
+                Date
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+      
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @item.Product.Name
+            </td>
+          
+            <td>
+               @item.Order.Amount
+              
+            </td>
+
+             <td>
+                @item.Order.OrderDate
+            </td>
+            
+             <td>
+                @item.Quantity
+            </td>
+
+        </tr>
+}
+    </tbody>
+</table>

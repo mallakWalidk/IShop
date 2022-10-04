@@ -1,0 +1,52 @@
+﻿
+ @{
+    Layout="~/Views/Shared/_Layout12.cshtml";
+}
+     <!-- Page Header Start -->
+    <div class="container-fluid bg-dark bg-img p-5 mb-5">
+        <div class="row">
+            <div class="col-12 text-center">
+                <h1 class="display-4 text-uppercase text-white">Contact Us</h1>
+            </div>
+        </div>
+    </div>
+    <!-- Page Header End -->
+
+    <!-- Contact Start -->
+    <div class="container-fluid contact position-relative px-5" style="margin-top: 90px;">
+        <div class="container">
+            <div class="row g-5 mb-5">
+               
+                <div class="col-lg-3 col-md-6">
+                    <div class="bg-primary border-inner text-center text-white p-5">
+                        <i class="bi bi-envelope-open fs-1 text-white"></i>
+                        <h6 class="text-uppercase my-2">Email Us</h6>
+                        <span>@ViewBag.email</span>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-6">
+                    <div class="bg-primary border-inner text-center text-white p-5">
+                        <i class="bi bi-phone-vibrate fs-1 text-white"></i>
+                        <h6 class="text-uppercase my-2">Call Us</h6>
+                        <span>+@ViewBag.phone</span>
+                    </div>
+                </div>
+                                <div class="col-lg-3 col-md-6">
+                    <div class="bg-primary border-inner text-center text-white p-5">
+                        <i class="fa-brands fa-instagram-square fs-2 text-white"></i>
+                        <h6 class="text-uppercase my-2">Follow us</h6>
+                        <span>www.instagram.com/ @ViewBag.instagram</span>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-6">
+                    <div class="bg-primary border-inner text-center text-white p-5">
+                       <i class="fa-brands fa-facebook fs-2 text-white"></i>
+                        <h6 class="text-uppercase my-2">Follow us</h6>
+                        <span>www.facebook.com/ @ViewBag.facebook</span>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+    <!-- Contact End -->

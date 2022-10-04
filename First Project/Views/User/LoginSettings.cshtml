@@ -1,0 +1,50 @@
+﻿@model First_Project.Models.Login
+@{
+    ViewData["Title"] = "LoginSettings";
+    Layout = "~/Views/Shared/_Layout12.cshtml";
+}
+
+<form asp-action="LoginSettings" style="text-align: center;" >
+
+
+         
+  <div class="form-row" >
+
+
+                 <input type="hidden" asp-for="Id" value=@Model.Id />
+                 <input type="hidden" asp-for="RoleId" value=@Model.RoleId />
+                 <input type="hidden" asp-for="UserId" value=@Model.UserId />
+  
+    <div class="col-md-4 mb-3" style='margin-left:500px'>
+      <label for="validationDefault02">Username</label>
+      <input type="text"   asp-for="Username" class="form-control" id="validationDefault02" placeholder="Username" value=@Model.Username >
+    </div>
+
+                   <div class="col-md-4 mb-3" style='margin-left:500px'>
+      <label for="validationDefault08">New Username</label>
+      <input type="text" name="NewUserName" class="form-control" id="validationDefault08" placeholder="New Username" >
+    			@Html.ValidationMessage("NewUserName", null, new { @class = "text-danger" })
+
+  </div>
+
+
+               <div class="col-md-4 mb-3" style='margin-left:500px'>
+      <label for="validationDefault05">Current Password</label>
+      <input type="Password" name="CurrentPassword" class="form-control" id="validationDefault05" placeholder="Currrent password"    >
+    </div>
+
+
+
+            <div class="col-md-4 mb-3" style='margin-left:500px'>
+      <label for="validationDefault04">New Password</label>
+      <input type="Password" name="Password" class="form-control" id="validationDefault04" placeholder="New password" >
+    			@Html.ValidationMessage("CurrentPassword", null, new { @class = "text-danger" })
+
+  </div>
+
+
+ </div>
+
+  <button class="btn btn-primary saved-msg" type="submit" > Save</button>
+</form>
+

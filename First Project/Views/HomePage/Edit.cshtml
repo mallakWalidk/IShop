@@ -1,0 +1,47 @@
+﻿@model First_Project.Models.Home
+
+@{
+    ViewData["Title"] = "Edit";
+    Layout = "~/Views/Shared/AdminLayout.cshtml";
+}
+
+<h1>Home Page</h1>
+
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Edit" enctype="multipart/form-data">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="Id" />
+            <div class="form-group">
+                <label asp-for="FirstDescreption" class="control-label"></label>
+                <input asp-for="FirstDescreption" class="form-control" />
+                <span asp-validation-for="FirstDescreption" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="SecondDescreption" class="control-label"></label>
+                <input asp-for="SecondDescreption" class="form-control" />
+                <span asp-validation-for="SecondDescreption" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="FirstImgFile" class="control-label"></label>
+                <input asp-for="FirstImgFile" class="form-control" />
+                <span asp-validation-for="FirstImgFile" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="SecondImgFile" class="control-label"></label>
+                <input asp-for="SecondImgFile" class="form-control" />
+                <span asp-validation-for="SecondImgFile" class="text-danger"></span>
+                 <input asp-for="SecondImgPath" class="form-control" type="hidden"/>
+                 <input asp-for="FirstImgPath" class="form-control" type="hidden"/>
+
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary " />
+            </div>
+        </form>
+    </div>
+</div>
+
+
+

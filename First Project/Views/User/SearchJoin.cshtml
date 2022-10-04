@@ -1,0 +1,102 @@
+﻿@model IEnumerable<First_Project.Models.SearchJoin>  
+@{
+    Layout="~/Views/Shared/_Layout12.cshtml";
+}    
+
+
+
+    <!-- Team Start -->
+    <div class="container-fluid py-5">
+        <div class="container">
+            <div class="section-title position-relative text-center mx-auto mb-5 pb-3" style="max-width: 600px;">
+                <h2 class="text-primary font-secondary">What are you looking for?</h2>
+                <h1 class="display-4 text-uppercase">Category</h1>
+            </div>
+               <form asp-action="SearchJoin" method="post">
+<div class="input-group mb-3">
+  <input type="text" class="form-control" name="text" placeholder="Search by name of Category, Store or Product" aria-label="Recipient's username" aria-describedby="button-addon2">
+  <button class="btn btn-dark" type="submit" id="button-addon2">Search</button>
+</div>
+  </form>
+  
+            <div class="row g-5">
+
+                @if( ViewBag.Name == "category")
+               {
+                <div class="col-lg-4 col-md-6">
+                    <div class="team-item">
+                        <div class="position-relative overflow-hidden">
+                            <img class="img-fluid w-100 h-50" src=@Url.Content("~/Image/" + Model.First().category.ImagePath )  alt="">
+                            <div class="team-overlay w-100 h-100 position-absolute top-50 start-50 translate-middle d-flex align-items-center justify-content-center" >
+                                <div class="d-flex align-items-center justify-content-start">
+                                    
+                                    <a class="btn btn-lg btn-primary btn-lg-square  rounded-0 mx-1" href="/user/store/Model.First().category.Id" >Go</a>
+                                    
+                                </div>
+                            </div>
+                        </div>
+                        <div class="bg-dark border-inner text-center p-4">
+                            <h4 class="text-uppercase text-primary">@Model.First().category.Name</h4>
+                            
+                        </div>
+
+                    </div>
+                </div>
+                }
+               
+
+              @if( ViewBag.Name == "store")
+               {
+                <div class="col-lg-4 col-md-6">
+                    <div class="team-item">
+                        <div class="position-relative overflow-hidden">
+                            <img class="img-fluid w-100 h-50" src=@Url.Content("~/Image/" + Model.First().store.ImagePath )  alt="">
+                            <div class="team-overlay w-100 h-100 position-absolute top-50 start-50 translate-middle d-flex align-items-center justify-content-center" >
+                                <div class="d-flex align-items-center justify-content-start">
+                                    
+                                    <a class="btn btn-lg btn-primary btn-lg-square  rounded-0 mx-1" href="/user/store/Model.First().store.Id" >Go</a>
+                                    
+                                </div>
+                            </div>
+                        </div>
+                        <div class="bg-dark border-inner text-center p-4">
+                            <h4 class="text-uppercase text-primary">@Model.First().store.Name</h4>
+                            
+                        </div>
+
+                    </div>
+                </div>
+                }
+               
+
+
+              @if( ViewBag.Name == "product")
+               {
+                @foreach (var item in Model){
+                <div class="col-lg-4 col-md-6">
+                    <div class="team-item">
+                        <div class="position-relative overflow-hidden">
+                            <img class="img-fluid w-100 h-50" src=@Url.Content("~/Image/" + item.product.ImagePath )  alt="">
+                            <div class="team-overlay w-100 h-100 position-absolute top-50 start-50 translate-middle d-flex align-items-center justify-content-center" >
+                                <div class="d-flex align-items-center justify-content-start">
+                                    
+                                    <a class="btn btn-lg btn-primary btn-lg-square  rounded-0 mx-1" href="/user/product/@item.product.Id" >Go</a>
+                                    
+                                </div>
+                            </div>
+                        </div>
+                        <div class="bg-dark border-inner text-center p-4">
+                            <h4 class="text-uppercase text-primary">@item.product.Name</h4>
+                            
+                        </div>
+
+                    </div>
+                </div>
+                }
+               }
+
+            </div>
+        </div>
+    </div>
+    <!-- Team End -->
+

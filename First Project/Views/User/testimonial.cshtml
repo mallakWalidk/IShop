@@ -1,0 +1,62 @@
+﻿@model IEnumerable<First_Project.Models.Testimonial>  
+
+@{
+    Layout="~/Views/Shared/_Layout12.cshtml";
+}
+
+    <!-- Page Header Start -->
+    <div class="container-fluid bg-dark bg-img p-5 mb-5">
+        <div class="row">
+            <div class="col-12 text-center">
+                <h1 class="display-4 text-uppercase text-white">Testimonial</h1>
+            </div>
+        </div>
+    </div>
+    <!-- Page Header End -->
+
+       <!-- Testimonial Start -->
+    <div class="container-fluid py-5">
+        <div class="container">
+            <div class="section-title position-relative text-center mx-auto mb-5 pb-3" style="max-width: 600px;">
+                <h2 class="text-primary font-secondary">Testimonial</h2>
+                <h1 class="display-4 text-uppercase">Our Clients Say!!!</h1>
+            </div>
+            <div class="owl-carousel testimonial-carousel">
+                @foreach(var item in Model)
+                {
+                <div class="testimonial-item bg-dark text-white border-inner p-4">
+                    <div class="d-flex align-items-center mb-3">
+                        <img class="img-fluid flex-shrink-0" src=@Url.Content("~/Image/" + item.User.ImagePath) style="width: 60px; height: 60px;">
+                        <div class="ps-3">
+                           <h4 class="text-primary text-uppercase mb-1">@item.User.FullName </h4>
+                        </div>
+                    </div>
+                    <p class="mb-0">@item.Text 
+                    </p>
+                </div>
+                }
+
+            </div>
+        </div>
+                    <div class="row justify-content-center mt-4">
+                <div class="col-lg-6">
+                    <form asp-action="testimonial">
+                        <div class="row g-3">
+
+                            <div class="col-sm-12">
+                                <textarea class="form-control bg-dark border-0 px-4 py-3" rows="4" placeholder="How you found our website" name="text"></textarea>
+                            <p class="font-weight-light text-center"> Your name and photo may appear at website. </p>
+
+                            </div>
+                            <div class="col-sm-12">
+                                <button class="btn btn-primary border-inner w-100 py-3" type="submit">Send </button>
+                            </div>
+                                             <input type="hidden" name="id" value=@ViewBag.UserID  />
+
+                        </div>
+                    </form>
+                </div>
+            </div>
+
+    </div>
+    <!-- Testimonial End -->

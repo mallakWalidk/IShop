@@ -1,0 +1,1035 @@
+﻿++Solution 'First Project' ‎(1 of 1 project)
+i:{00000000-0000-0000-0000-000000000000}:First Project.sln
+++First Project
+i:{00000000-0000-0000-0000-000000000000}:First Project
+++Connected Services 
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:>1945
+++Dependencies
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:>1944
+++Properties
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\properties\
+++wwwroot
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\
+++assest
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\assest\
+++auth
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\auth\
+++home
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\home\
+++css
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\home\css\
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\assest\css\
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\assest\lib\tempusdominus\css\
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\home\lib\bootstrap\dist\css\
+++img
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\home\img\
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\assest\img\
+++js
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\home\js\
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\assest\js\
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\assest\lib\tempusdominus\js\
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\home\lib\bootstrap\dist\js\
+++lib
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\home\lib\
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\assest\lib\
+++scss
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\home\scss\
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\assest\scss\
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\home\scss\bootstrap\scss\
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\assest\scss\bootstrap\scss\
+++favicon.ico
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\home\favicon.ico
+++Image
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\image\
+++0b7965ac-fd66-4b7d-a962-df782fdc04be_c454f340fc3aadf58a47f29878196956.jpg
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\image\0b7965ac-fd66-4b7d-a962-df782fdc04be_c454f340fc3aadf58a47f29878196956.jpg
+++123883b6-e9f8-4703-a9e2-148c9d89b157_Alexander-eye-zara-black.jpg
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\image\123883b6-e9f8-4703-a9e2-148c9d89b157_alexander-eye-zara-black.jpg
+++2daef2d0-75be-43ba-8f16-c4843c8ee0c6_c454f340fc3aadf58a47f29878196956.jpg
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\image\2daef2d0-75be-43ba-8f16-c4843c8ee0c6_c454f340fc3aadf58a47f29878196956.jpg
+++37a455de-fedf-46c0-91a0-828bac6ca8c8_4818.jpg
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\image\37a455de-fedf-46c0-91a0-828bac6ca8c8_4818.jpg
+++46469e95-ba86-4e7d-a306-2bac6c008cff_c454f340fc3aadf58a47f29878196956.jpg
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\image\46469e95-ba86-4e7d-a306-2bac6c008cff_c454f340fc3aadf58a47f29878196956.jpg
+++4a97c0c7-3ce0-465b-a21c-40ff77e3f090_c454f340fc3aadf58a47f29878196956.jpg
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\image\4a97c0c7-3ce0-465b-a21c-40ff77e3f090_c454f340fc3aadf58a47f29878196956.jpg
+++5349578.png
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\image\5349578.png
+++55bf034d-aa75-404e-9789-fb115eebed69_download.jpg
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\image\55bf034d-aa75-404e-9789-fb115eebed69_download.jpg
+++8631a2f9-e99f-433d-afc2-9080a0f140f5_6345597.jpg
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\image\8631a2f9-e99f-433d-afc2-9080a0f140f5_6345597.jpg
+++8fb422c3-4914-4914-9c75-c0b1c5f59468_6345597.jpg
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\image\8fb422c3-4914-4914-9c75-c0b1c5f59468_6345597.jpg
+++963dd5b2-d1b7-459f-8dca-2f466fef88f3_c454f340fc3aadf58a47f29878196956.jpg
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\image\963dd5b2-d1b7-459f-8dca-2f466fef88f3_c454f340fc3aadf58a47f29878196956.jpg
+++96cd490f-0953-437a-866d-b5c4779b4640_hm.gif
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\image\96cd490f-0953-437a-866d-b5c4779b4640_hm.gif
+++a02646da-cdd2-4943-b8ca-d02d454091e6_6345597.jpg
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\image\a02646da-cdd2-4943-b8ca-d02d454091e6_6345597.jpg
+++a1a6eda4-d779-4d8e-9b0f-c4f662387397_images.png
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\image\a1a6eda4-d779-4d8e-9b0f-c4f662387397_images.png
+++a2ae8a11-21e6-4576-aab9-aed13282c05b_download.jpg
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\image\a2ae8a11-21e6-4576-aab9-aed13282c05b_download.jpg
+++acd37a37-ac33-4077-8fe7-4ed3943ece66_hm.gif
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\image\acd37a37-ac33-4077-8fe7-4ed3943ece66_hm.gif
+++b42aeec3-171a-43b0-95c5-1d56501a0a89_c454f340fc3aadf58a47f29878196956.jpg
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\image\b42aeec3-171a-43b0-95c5-1d56501a0a89_c454f340fc3aadf58a47f29878196956.jpg
+++b5a95b72-11d3-44a1-abb6-1c6022b825ed_c454f340fc3aadf58a47f29878196956.jpg
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\image\b5a95b72-11d3-44a1-abb6-1c6022b825ed_c454f340fc3aadf58a47f29878196956.jpg
+++b839ac9a-940e-4f6b-8b9c-23e70e7fd833_ea2ef1ad8de655c4334b630e97e2876a.jpg
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\image\b839ac9a-940e-4f6b-8b9c-23e70e7fd833_ea2ef1ad8de655c4334b630e97e2876a.jpg
+++c862b0d8-3f0c-49f7-aeba-3a65c38020c7_c454f340fc3aadf58a47f29878196956.jpg
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\image\c862b0d8-3f0c-49f7-aeba-3a65c38020c7_c454f340fc3aadf58a47f29878196956.jpg
+++cb7dbda6-3e01-4026-83f8-e483774b5549_4818.jpg
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\image\cb7dbda6-3e01-4026-83f8-e483774b5549_4818.jpg
+++d4f0594d-2a91-4d5d-be07-0bcee5a11b07_clothes-logo-template-vector-icon-design-181127120.jpg
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\image\d4f0594d-2a91-4d5d-be07-0bcee5a11b07_clothes-logo-template-vector-icon-design-181127120.jpg
+++dcbd209c-9958-43fa-b966-e504f3596d4a_c454f340fc3aadf58a47f29878196956.jpg
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\image\dcbd209c-9958-43fa-b966-e504f3596d4a_c454f340fc3aadf58a47f29878196956.jpg
+++defalut.jpg
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\image\defalut.jpg
+++df2eba87-664c-4c8a-89f9-f92b95c1e338_hmgoepprod.jpg
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\image\df2eba87-664c-4c8a-89f9-f92b95c1e338_hmgoepprod.jpg
+++e975ec0c-520f-4164-a582-5180ba3c05e0_download.png
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\image\e975ec0c-520f-4164-a582-5180ba3c05e0_download.png
+++ee56a327-79cc-4add-b546-7bc0bb13d436_istockphoto-904766968-612x612.jpg
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\image\ee56a327-79cc-4add-b546-7bc0bb13d436_istockphoto-904766968-612x612.jpg
+++f9bd5c92-ad79-45e4-8d67-7fcaca0d2109_Alexander-eye-zara-black.jpg
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\image\f9bd5c92-ad79-45e4-8d67-7fcaca0d2109_alexander-eye-zara-black.jpg
+++pngtree-girl-working-from-home-feel-comfortable.jpg
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\image\pngtree-girl-working-from-home-feel-comfortable.jpg
+++store.png
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\image\store.png
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\home\img\store.png
+++Controllers
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\controllers\
+++AboutUsController.cs
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\controllers\aboutuscontroller.cs
+++AdminController.cs
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\controllers\admincontroller.cs
+++AuthController.cs
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\controllers\authcontroller.cs
+++CategoriesController.cs
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\controllers\categoriescontroller.cs
+++ContactUsController.cs
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\controllers\contactuscontroller.cs
+++HomeController.cs
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\controllers\homecontroller.cs
+++HomePageController.cs
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\controllers\homepagecontroller.cs
+++invoice.cs
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\controllers\invoice.cs
+++ProductCategoriesController.cs
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\controllers\productcategoriescontroller.cs
+++ProductsController.cs
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\controllers\productscontroller.cs
+++StoresController.cs
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\controllers\storescontroller.cs
+++TestimonialsController.cs
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\controllers\testimonialscontroller.cs
+++userController.cs
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\controllers\usercontroller.cs
+++UsersController.cs
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\controllers\userscontroller.cs
+++Models
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\models\
+++AboutU.cs
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\models\aboutu.cs
+++Admin.cs
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\models\admin.cs
+++Auditing.cs
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\models\auditing.cs
+++Category.cs
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\models\category.cs
+++Company.cs
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\models\company.cs
+++ContactU.cs
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\models\contactu.cs
+++Course.cs
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\models\course.cs
+++CreditCard.cs
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\models\creditcard.cs
+++Customer.cs
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\models\customer.cs
+++Department.cs
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\models\department.cs
+++Departmentt.cs
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\models\departmentt.cs
+++Deptemployee.cs
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\models\deptemployee.cs
+++DmrsColumn.cs
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\models\dmrscolumn.cs
+++DmrsConstrFkColumn.cs
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\models\dmrsconstrfkcolumn.cs
+++DmrsConstrIndexColumn.cs
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\models\dmrsconstrindexcolumn.cs
+++DmrsContact.cs
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\models\dmrscontact.cs
+++DmrsContactEmail.cs
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\models\dmrscontactemail.cs
+++DmrsContactResLocator.cs
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\models\dmrscontactreslocator.cs
+++DmrsContactTelephone.cs
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\models\dmrscontacttelephone.cs
+++DmrsDataFlowDiagramInfo.cs
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\models\dmrsdataflowdiagraminfo.cs
+++DmrsDesign.cs
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\models\dmrsdesign.cs
+++DmrsDiagram.cs
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\models\dmrsdiagram.cs
+++DmrsDiagramElement.cs
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\models\dmrsdiagramelement.cs
+++DmrsDistinctType.cs
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\models\dmrsdistincttype.cs
+++DmrsDocument.cs
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\models\dmrsdocument.cs
+++DmrsDocumentElement.cs
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\models\dmrsdocumentelement.cs
+++DmrsDomain.cs
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\models\dmrsdomain.cs
+++DmrsDomainAvt.cs
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\models\dmrsdomainavt.cs
+++DmrsDomainCheckConstraint.cs
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\models\dmrsdomaincheckconstraint.cs
+++DmrsDomainValueRange.cs
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\models\dmrsdomainvaluerange.cs
+++DmrsEmail.cs
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\models\dmrsemail.cs
+++DmrsEntity.cs
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\models\dmrsentity.cs
+++DmrsEntityview.cs
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\models\dmrsentityview.cs
+++DmrsEvent.cs
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\models\dmrsevent.cs
+++DmrsExtAgentExtData.cs
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\models\dmrsextagentextdata.cs
+++DmrsExtAgentFlow.cs
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\models\dmrsextagentflow.cs
+++DmrsExternalAgent.cs
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\models\dmrsexternalagent.cs
+++DmrsExternalData.cs
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\models\dmrsexternaldata.cs
+++DmrsFlow.cs
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\models\dmrsflow.cs
+++DmrsFlowInfoStructure.cs
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\models\dmrsflowinfostructure.cs
+++DmrsForeignkey.cs
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\models\dmrsforeignkey.cs
+++DmrsIndex.cs
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\models\dmrsindex.cs
+++DmrsInfoStore.cs
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\models\dmrsinfostore.cs
+++DmrsInfoStructAttr.cs
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\models\dmrsinfostructattr.cs
+++DmrsInfoStructure.cs
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\models\dmrsinfostructure.cs
+++DmrsInstallation.cs
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\models\dmrsinstallation.cs
+++DmrsKey.cs
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\models\dmrskey.cs
+++DmrsKeyAttribute.cs
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\models\dmrskeyattribute.cs
+++DmrsKeyElement.cs
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\models\dmrskeyelement.cs
+++DmrsLocation.cs
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\models\dmrslocation.cs
+++DmrsLogicalToNative.cs
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\models\dmrslogicaltonative.cs
+++DmrsLogicalType.cs
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\models\dmrslogicaltype.cs
+++DmrsMapping.cs
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\models\dmrsmapping.cs
+++DmrsModel.cs
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\models\dmrsmodel.cs
+++DmrsModelDisplay.cs
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\models\dmrsmodeldisplay.cs
+++DmrsModelSubview.cs
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\models\dmrsmodelsubview.cs
+++DmrvReportsVersion10.cs
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\models\dmrvreportsversion10.cs
+++Employee.cs
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\models\employee.cs
+++Employeet.cs
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\models\employeet.cs
+++ErrorViewModel.cs
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\models\errorviewmodel.cs
+++Exam.cs
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\models\exam.cs
+++Home.cs
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\models\home.cs
+++Item.cs
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\models\item.cs
+++Jordan.cs
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\models\jordan.cs
+++Login.cs
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\models\login.cs
+++ModelContext.cs
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\models\modelcontext.cs
+++Order.cs
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\models\order.cs
+++Orderproduct.cs
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\models\orderproduct.cs
+++Payment.cs
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\models\payment.cs
+++Product.cs
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\models\product.cs
+++ProductCategory.cs
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\models\productcategory.cs
+++RCustomer.cs
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\models\rcustomer.cs
+++Role.cs
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\models\role.cs
+++RProduct.cs
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\models\rproduct.cs
+++RProductCustomer.cs
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\models\rproductcustomer.cs
+++RRole.cs
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\models\rrole.cs
+++sales.cs
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\models\sales.cs
+++Store.cs
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\models\store.cs
+++Student.cs
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\models\student.cs
+++Support.cs
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\models\support.cs
+++TAddress.cs
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\models\taddress.cs
+++TAuditing.cs
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\models\tauditing.cs
+++TContactInfo.cs
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\models\tcontactinfo.cs
+++TDepartment.cs
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\models\tdepartment.cs
+++TEmployee.cs
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\models\temployee.cs
+++Testimonial.cs
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\models\testimonial.cs
+++TotalOrders.cs
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\models\totalorders.cs
+++User.cs
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\models\user.cs
+++Visacard.cs
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\models\visacard.cs
+++VStudent.cs
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\models\vstudent.cs
+++WebsitePage.cs
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\models\websitepage.cs
+++Views
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\views\
+++AboutUs
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\views\aboutus\
+++Create.cshtml
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\views\aboutus\create.cshtml
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\views\categories\create.cshtml
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\views\productcategories\create.cshtml
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\views\products\create.cshtml
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\views\stores\create.cshtml
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\views\testimonials\create.cshtml
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\views\users\create.cshtml
+++Delete.cshtml
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\views\aboutus\delete.cshtml
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\views\categories\delete.cshtml
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\views\productcategories\delete.cshtml
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\views\products\delete.cshtml
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\views\stores\delete.cshtml
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\views\testimonials\delete.cshtml
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\views\users\delete.cshtml
+++Details.cshtml
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\views\aboutus\details.cshtml
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\views\categories\details.cshtml
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\views\homepage\details.cshtml
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\views\productcategories\details.cshtml
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\views\products\details.cshtml
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\views\stores\details.cshtml
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\views\testimonials\details.cshtml
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\views\users\details.cshtml
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\views\contactus\details.cshtml
+++Edit.cshtml
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\views\aboutus\edit.cshtml
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\views\categories\edit.cshtml
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\views\homepage\edit.cshtml
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\views\productcategories\edit.cshtml
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\views\products\edit.cshtml
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\views\stores\edit.cshtml
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\views\testimonials\edit.cshtml
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\views\users\edit.cshtml
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\views\contactus\edit.cshtml
+++Index.cshtml
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\views\aboutus\index.cshtml
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\views\admin\index.cshtml
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\views\categories\index.cshtml
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\views\home\index.cshtml
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\views\productcategories\index.cshtml
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\views\products\index.cshtml
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\views\stores\index.cshtml
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\views\testimonials\index.cshtml
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\views\user\index.cshtml
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\views\users\index.cshtml
+++Admin
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\views\admin\
+++blank.cshtml
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\views\admin\blank.cshtml
+++buttons.cshtml
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\views\admin\buttons.cshtml
+++charts.cshtml
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\views\admin\charts.cshtml
+++element.cshtml
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\views\admin\element.cshtml
+++error.cshtml
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\views\admin\error.cshtml
+++forms.cshtml
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\views\admin\forms.cshtml
+++LoginSettings.cshtml
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\views\admin\loginsettings.cshtml
+++search.cshtml
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\views\admin\search.cshtml
+++settings.cshtml
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\views\admin\settings.cshtml
+++signin.cshtml
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\views\admin\signin.cshtml
+++signup.cshtml
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\views\admin\signup.cshtml
+++tables.cshtml
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\views\admin\tables.cshtml
+++totalSales.cshtml
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\views\admin\totalsales.cshtml
+++typography.cshtml
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\views\admin\typography.cshtml
+++widgets.cshtml
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\views\admin\widgets.cshtml
+++Auth
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\views\auth\
+++login.cshtml
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\views\auth\login.cshtml
+++register.cshtml
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\views\auth\register.cshtml
+++Categories
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\views\categories\
+++ContactUs
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\views\contactus\
+++Home
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\views\home\
+++about.cshtml
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\views\home\about.cshtml
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\views\user\about.cshtml
+++category.cshtml
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\views\home\category.cshtml
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\views\user\category.cshtml
+++contact.cshtml
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\views\home\contact.cshtml
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\views\user\contact.cshtml
+++Privacy.cshtml
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\views\home\privacy.cshtml
+++product.cshtml
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\views\home\product.cshtml
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\views\user\product.cshtml
+++products.cshtml
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\views\home\products.cshtml
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\views\user\products.cshtml
+++store.cshtml
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\views\home\store.cshtml
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\views\user\store.cshtml
+++testimonial.cshtml
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\views\home\testimonial.cshtml
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\views\user\testimonial.cshtml
+++HomePage
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\views\homepage\
+++ProductCategories
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\views\productcategories\
+++Products
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\views\products\
+++Shared
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\views\shared\
+++_Layout.cshtml
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\views\shared\_layout.cshtml
+++_Layout1.cshtml
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\views\shared\_layout1.cshtml
+++_Layout12.cshtml
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\views\shared\_layout12.cshtml
+++_ValidationScriptsPartial.cshtml
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\views\shared\_validationscriptspartial.cshtml
+++AdminLayout.cshtml
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\views\shared\adminlayout.cshtml
+++Error.cshtml
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\views\shared\error.cshtml
+++Stores
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\views\stores\
+++Testimonials
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\views\testimonials\
+++User
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\views\user\
+++cart.cshtml
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\views\user\cart.cshtml
+++Index1.cshtml
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\views\user\index1.cshtml
+++Users
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\views\users\
+++_ViewImports.cshtml
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\views\_viewimports.cshtml
+++_ViewStart.cshtml
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\views\_viewstart.cshtml
+++appsettings.json
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\appsettings.json
+++Program.cs
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\program.cs
+++Startup.cs
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\startup.cs
+++No service dependencies discovered
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:>1946
+++Analyzers
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:analyzers
+++Frameworks
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:frameworks
+++Packages
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:packages
+++launchSettings.json
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\properties\launchsettings.json
+++style.css
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\auth\style.css
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\home\css\style.css
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\assest\css\style.css
+++bootstrap.min.css
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\home\css\bootstrap.min.css
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\assest\css\bootstrap.min.css
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\home\lib\bootstrap\dist\css\bootstrap.min.css
+++site.css
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\home\css\site.css
+++about.jpg
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\home\img\about.jpg
+++bg.jpg
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\home\img\bg.jpg
+++cake-1.jpg
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\home\img\cake-1.jpg
+++cake-2.jpg
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\home\img\cake-2.jpg
+++cake-3.jpg
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\home\img\cake-3.jpg
+++call-to-action.jpg
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\home\img\call-to-action.jpg
+++carousel-1.jpg
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\home\img\carousel-1.jpg
+++carousel-2.jpg
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\home\img\carousel-2.jpg
+++header.jpg
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\home\img\header.jpg
+++hero.jpg
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\home\img\hero.jpg
+++icon-apartment.png
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\home\img\icon-apartment.png
+++icon-building.png
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\home\img\icon-building.png
+++icon-condominium.png
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\home\img\icon-condominium.png
+++icon-deal.png
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\home\img\icon-deal.png
+++icon-house.png
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\home\img\icon-house.png
+++icon-housing.png
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\home\img\icon-housing.png
+++icon-luxury.png
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\home\img\icon-luxury.png
+++icon-neighborhood.png
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\home\img\icon-neighborhood.png
+++icon-search.png
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\home\img\icon-search.png
+++icon-villa.png
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\home\img\icon-villa.png
+++offer.jpg
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\home\img\offer.jpg
+++property-1.jpg
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\home\img\property-1.jpg
+++property-2.jpg
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\home\img\property-2.jpg
+++property-3.jpg
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\home\img\property-3.jpg
+++property-4.jpg
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\home\img\property-4.jpg
+++property-5.jpg
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\home\img\property-5.jpg
+++property-6.jpg
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\home\img\property-6.jpg
+++service.jpg
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\home\img\service.jpg
+++team-1.jpg
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\home\img\team-1.jpg
+++team-2.jpg
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\home\img\team-2.jpg
+++team-3.jpg
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\home\img\team-3.jpg
+++team-4.jpg
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\home\img\team-4.jpg
+++testimonial-1.jpg
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\home\img\testimonial-1.jpg
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\assest\img\testimonial-1.jpg
+++testimonial-2.jpg
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\home\img\testimonial-2.jpg
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\assest\img\testimonial-2.jpg
+++testimonial-3.jpg
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\home\img\testimonial-3.jpg
+++testimonial-4.jpg
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\home\img\testimonial-4.jpg
+++main.js
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\home\js\main.js
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\assest\js\main.js
+++site.js
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\home\js\site.js
+++animate
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\home\lib\animate\
+++bootstrap
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\home\lib\bootstrap\
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\home\scss\bootstrap\
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\assest\scss\bootstrap\
+++counterup
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\home\lib\counterup\
+++easing
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\home\lib\easing\
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\assest\lib\easing\
+++jquery
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\home\lib\jquery\
+++jquery-validation
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\home\lib\jquery-validation\
+++jquery-validation-unobtrusive
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\home\lib\jquery-validation-unobtrusive\
+++owlcarousel
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\home\lib\owlcarousel\
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\assest\lib\owlcarousel\
+++waypoints
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\home\lib\waypoints\
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\assest\lib\waypoints\
+++wow
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\home\lib\wow\
+++bootstrap.scss
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\home\scss\bootstrap.scss
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\assest\scss\bootstrap.scss
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\home\scss\bootstrap\scss\bootstrap.scss
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\assest\scss\bootstrap\scss\bootstrap.scss
+++appsettings.Development.json
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\appsettings.development.json
+++Microsoft.AspNetCore.Analyzers
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+++Microsoft.AspNetCore.Components.Analyzers
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+++Microsoft.AspNetCore.Mvc.Analyzers
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+++Microsoft.CodeAnalysis.Analyzers
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\.nuget\packages\microsoft.codeanalysis.analyzers\2.9.4\analyzers\dotnet\cs\microsoft.codeanalysis.analyzers.dll
+++Microsoft.CodeAnalysis.CSharp.Analyzers
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\.nuget\packages\microsoft.codeanalysis.analyzers\2.9.4\analyzers\dotnet\cs\microsoft.codeanalysis.csharp.analyzers.dll
+++Microsoft.EntityFrameworkCore.Analyzers
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\.nuget\packages\microsoft.entityframeworkcore.analyzers\5.0.11\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+++Microsoft.AspNetCore.App
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\microsoft.aspnetcore.app
+++Microsoft.NETCore.App
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\microsoft.netcore.app
+++iTextSharp (5.5.13.3)
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:>1958
+++Microsoft.EntityFrameworkCore (5.0.11)
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:>1955
+++Microsoft.EntityFrameworkCore.SqlServer (3.1.25)
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:>1956
+++Microsoft.EntityFrameworkCore.Tools (5.0.11)
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:>1959
+++Microsoft.VisualStudio.Web.CodeGeneration.Design (3.1.5)
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:>1960
+++ODP.NetCore (2.0.12)
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:>1962
+++Oracle.EntityFrameworkCore (5.21.4)
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:>1961
+++RazorPDF (1.0.0)
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:>1963
+++Syncfusion.Pdf.AspNet.Mvc5 (20.1.0.59)
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:>1957
+++user.jpg
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\assest\img\user.jpg
+++chart
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\assest\lib\chart\
+++tempusdominus
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\assest\lib\tempusdominus\
+++animate.css
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\home\lib\animate\animate.css
+++dist
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\home\lib\bootstrap\dist\
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\home\lib\jquery\dist\
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\home\lib\jquery-validation\dist\
+++LICENSE
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\home\lib\bootstrap\license
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\home\lib\owlcarousel\license
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\assest\lib\owlcarousel\license
+++counterup.min.js
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\home\lib\counterup\counterup.min.js
+++easing.js
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\home\lib\easing\easing.js
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\assest\lib\easing\easing.js
+++LICENSE.txt
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\home\lib\jquery\license.txt
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\home\lib\jquery-validation-unobtrusive\license.txt
+++LICENSE.md
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\home\lib\jquery-validation\license.md
+++jquery.validate.unobtrusive.js
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\home\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.js
+++assets
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\home\lib\owlcarousel\assets\
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\assest\lib\owlcarousel\assets\
+++owl.carousel.js
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\home\lib\owlcarousel\owl.carousel.js
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\assest\lib\owlcarousel\owl.carousel.js
+++links.php
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\home\lib\waypoints\links.php
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\assest\lib\waypoints\links.php
+++waypoints.min.js
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\home\lib\waypoints\waypoints.min.js
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\assest\lib\waypoints\waypoints.min.js
+++wow.js
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\home\lib\wow\wow.js
+++chart.min.js
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\assest\lib\chart\chart.min.js
+++animate.min.css
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\home\lib\animate\animate.min.css
+++easing.min.js
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\home\lib\easing\easing.min.js
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\assest\lib\easing\easing.min.js
+++jquery.js
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\home\lib\jquery\dist\jquery.js
+++additional-methods.js
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\home\lib\jquery-validation\dist\additional-methods.js
+++jquery.validate.js
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\home\lib\jquery-validation\dist\jquery.validate.js
+++jquery.validate.unobtrusive.min.js
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\home\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.min.js
+++ajax-loader.gif
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\home\lib\owlcarousel\assets\ajax-loader.gif
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\assest\lib\owlcarousel\assets\ajax-loader.gif
+++owl.carousel.css
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\home\lib\owlcarousel\assets\owl.carousel.css
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\assest\lib\owlcarousel\assets\owl.carousel.css
+++owl.theme.default.css
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\home\lib\owlcarousel\assets\owl.theme.default.css
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\assest\lib\owlcarousel\assets\owl.theme.default.css
+++owl.theme.green.css
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\home\lib\owlcarousel\assets\owl.theme.green.css
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\assest\lib\owlcarousel\assets\owl.theme.green.css
+++owl.video.play.png
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\home\lib\owlcarousel\assets\owl.video.play.png
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\assest\lib\owlcarousel\assets\owl.video.play.png
+++owl.carousel.min.js
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\home\lib\owlcarousel\owl.carousel.min.js
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\assest\lib\owlcarousel\owl.carousel.min.js
+++wow.min.js
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\home\lib\wow\wow.min.js
+++forms
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\home\scss\bootstrap\scss\forms\
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\assest\scss\bootstrap\scss\forms\
+++helpers
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\home\scss\bootstrap\scss\helpers\
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\assest\scss\bootstrap\scss\helpers\
+++mixins
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\home\scss\bootstrap\scss\mixins\
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\assest\scss\bootstrap\scss\mixins\
+++utilities
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\home\scss\bootstrap\scss\utilities\
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\assest\scss\bootstrap\scss\utilities\
+++vendor
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\home\scss\bootstrap\scss\vendor\
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\assest\scss\bootstrap\scss\vendor\
+++_accordion.scss
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\home\scss\bootstrap\scss\_accordion.scss
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\assest\scss\bootstrap\scss\_accordion.scss
+++_alert.scss
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\home\scss\bootstrap\scss\_alert.scss
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\assest\scss\bootstrap\scss\_alert.scss
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\home\scss\bootstrap\scss\mixins\_alert.scss
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\assest\scss\bootstrap\scss\mixins\_alert.scss
+++_badge.scss
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\home\scss\bootstrap\scss\_badge.scss
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\assest\scss\bootstrap\scss\_badge.scss
+++_breadcrumb.scss
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\home\scss\bootstrap\scss\_breadcrumb.scss
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\assest\scss\bootstrap\scss\_breadcrumb.scss
+++_button-group.scss
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\home\scss\bootstrap\scss\_button-group.scss
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\assest\scss\bootstrap\scss\_button-group.scss
+++_buttons.scss
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\home\scss\bootstrap\scss\_buttons.scss
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\assest\scss\bootstrap\scss\_buttons.scss
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\home\scss\bootstrap\scss\mixins\_buttons.scss
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\assest\scss\bootstrap\scss\mixins\_buttons.scss
+++_card.scss
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\home\scss\bootstrap\scss\_card.scss
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\assest\scss\bootstrap\scss\_card.scss
+++_carousel.scss
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\home\scss\bootstrap\scss\_carousel.scss
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\assest\scss\bootstrap\scss\_carousel.scss
+++_close.scss
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\home\scss\bootstrap\scss\_close.scss
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\assest\scss\bootstrap\scss\_close.scss
+++_containers.scss
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\home\scss\bootstrap\scss\_containers.scss
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\assest\scss\bootstrap\scss\_containers.scss
+++_dropdown.scss
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\home\scss\bootstrap\scss\_dropdown.scss
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\assest\scss\bootstrap\scss\_dropdown.scss
+++_forms.scss
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\home\scss\bootstrap\scss\_forms.scss
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\assest\scss\bootstrap\scss\_forms.scss
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\home\scss\bootstrap\scss\mixins\_forms.scss
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\assest\scss\bootstrap\scss\mixins\_forms.scss
+++_functions.scss
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\home\scss\bootstrap\scss\_functions.scss
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\assest\scss\bootstrap\scss\_functions.scss
+++_grid.scss
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\home\scss\bootstrap\scss\_grid.scss
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\assest\scss\bootstrap\scss\_grid.scss
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\home\scss\bootstrap\scss\mixins\_grid.scss
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\assest\scss\bootstrap\scss\mixins\_grid.scss
+++_helpers.scss
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\home\scss\bootstrap\scss\_helpers.scss
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\assest\scss\bootstrap\scss\_helpers.scss
+++_images.scss
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\home\scss\bootstrap\scss\_images.scss
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\assest\scss\bootstrap\scss\_images.scss
+++_list-group.scss
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\home\scss\bootstrap\scss\_list-group.scss
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\assest\scss\bootstrap\scss\_list-group.scss
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\home\scss\bootstrap\scss\mixins\_list-group.scss
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\assest\scss\bootstrap\scss\mixins\_list-group.scss
+++_mixins.scss
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\home\scss\bootstrap\scss\_mixins.scss
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\assest\scss\bootstrap\scss\_mixins.scss
+++_modal.scss
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\home\scss\bootstrap\scss\_modal.scss
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\assest\scss\bootstrap\scss\_modal.scss
+++_nav.scss
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\home\scss\bootstrap\scss\_nav.scss
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\assest\scss\bootstrap\scss\_nav.scss
+++_navbar.scss
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\home\scss\bootstrap\scss\_navbar.scss
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\assest\scss\bootstrap\scss\_navbar.scss
+++_offcanvas.scss
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\home\scss\bootstrap\scss\_offcanvas.scss
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\assest\scss\bootstrap\scss\_offcanvas.scss
+++_pagination.scss
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\home\scss\bootstrap\scss\_pagination.scss
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\assest\scss\bootstrap\scss\_pagination.scss
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\home\scss\bootstrap\scss\mixins\_pagination.scss
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\assest\scss\bootstrap\scss\mixins\_pagination.scss
+++_popover.scss
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\home\scss\bootstrap\scss\_popover.scss
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\assest\scss\bootstrap\scss\_popover.scss
+++_progress.scss
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\home\scss\bootstrap\scss\_progress.scss
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\assest\scss\bootstrap\scss\_progress.scss
+++_reboot.scss
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\home\scss\bootstrap\scss\_reboot.scss
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\assest\scss\bootstrap\scss\_reboot.scss
+++_root.scss
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\home\scss\bootstrap\scss\_root.scss
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\assest\scss\bootstrap\scss\_root.scss
+++_spinners.scss
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\home\scss\bootstrap\scss\_spinners.scss
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\assest\scss\bootstrap\scss\_spinners.scss
+++_tables.scss
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\home\scss\bootstrap\scss\_tables.scss
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\assest\scss\bootstrap\scss\_tables.scss
+++_toasts.scss
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\home\scss\bootstrap\scss\_toasts.scss
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\assest\scss\bootstrap\scss\_toasts.scss
+++_tooltip.scss
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\home\scss\bootstrap\scss\_tooltip.scss
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\assest\scss\bootstrap\scss\_tooltip.scss
+++_transitions.scss
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\home\scss\bootstrap\scss\_transitions.scss
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\assest\scss\bootstrap\scss\_transitions.scss
+++_type.scss
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\home\scss\bootstrap\scss\_type.scss
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\assest\scss\bootstrap\scss\_type.scss
+++_utilities.scss
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\home\scss\bootstrap\scss\_utilities.scss
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\assest\scss\bootstrap\scss\_utilities.scss
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\home\scss\bootstrap\scss\mixins\_utilities.scss
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\assest\scss\bootstrap\scss\mixins\_utilities.scss
+++_variables.scss
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\home\scss\bootstrap\scss\_variables.scss
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\assest\scss\bootstrap\scss\_variables.scss
+++bootstrap-grid.scss
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\home\scss\bootstrap\scss\bootstrap-grid.scss
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\assest\scss\bootstrap\scss\bootstrap-grid.scss
+++bootstrap-reboot.scss
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\home\scss\bootstrap\scss\bootstrap-reboot.scss
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\assest\scss\bootstrap\scss\bootstrap-reboot.scss
+++bootstrap-utilities.scss
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\home\scss\bootstrap\scss\bootstrap-utilities.scss
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\assest\scss\bootstrap\scss\bootstrap-utilities.scss
+++tempusdominus-bootstrap-4.css
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\assest\lib\tempusdominus\css\tempusdominus-bootstrap-4.css
+++moment.min.js
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\assest\lib\tempusdominus\js\moment.min.js
+++moment-timezone.min.js
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\assest\lib\tempusdominus\js\moment-timezone.min.js
+++tempusdominus-bootstrap-4.js
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\assest\lib\tempusdominus\js\tempusdominus-bootstrap-4.js
+++bootstrap.css
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\home\lib\bootstrap\dist\css\bootstrap.css
+++bootstrap-grid.css
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\home\lib\bootstrap\dist\css\bootstrap-grid.css
+++bootstrap-reboot.css
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\home\lib\bootstrap\dist\css\bootstrap-reboot.css
+++bootstrap.js
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\home\lib\bootstrap\dist\js\bootstrap.js
+++jquery.min.js
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\home\lib\jquery\dist\jquery.min.js
+++additional-methods.min.js
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\home\lib\jquery-validation\dist\additional-methods.min.js
+++jquery.validate.min.js
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\home\lib\jquery-validation\dist\jquery.validate.min.js
+++owl.carousel.min.css
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\home\lib\owlcarousel\assets\owl.carousel.min.css
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\assest\lib\owlcarousel\assets\owl.carousel.min.css
+++owl.theme.default.min.css
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\home\lib\owlcarousel\assets\owl.theme.default.min.css
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\assest\lib\owlcarousel\assets\owl.theme.default.min.css
+++owl.theme.green.min.css
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\home\lib\owlcarousel\assets\owl.theme.green.min.css
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\assest\lib\owlcarousel\assets\owl.theme.green.min.css
+++_floating-labels.scss
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\home\scss\bootstrap\scss\forms\_floating-labels.scss
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\assest\scss\bootstrap\scss\forms\_floating-labels.scss
+++_form-check.scss
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\home\scss\bootstrap\scss\forms\_form-check.scss
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\assest\scss\bootstrap\scss\forms\_form-check.scss
+++_form-control.scss
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\home\scss\bootstrap\scss\forms\_form-control.scss
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\assest\scss\bootstrap\scss\forms\_form-control.scss
+++_form-range.scss
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\home\scss\bootstrap\scss\forms\_form-range.scss
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\assest\scss\bootstrap\scss\forms\_form-range.scss
+++_form-select.scss
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\home\scss\bootstrap\scss\forms\_form-select.scss
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\assest\scss\bootstrap\scss\forms\_form-select.scss
+++_form-text.scss
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\home\scss\bootstrap\scss\forms\_form-text.scss
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\assest\scss\bootstrap\scss\forms\_form-text.scss
+++_input-group.scss
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\home\scss\bootstrap\scss\forms\_input-group.scss
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\assest\scss\bootstrap\scss\forms\_input-group.scss
+++_labels.scss
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\home\scss\bootstrap\scss\forms\_labels.scss
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\assest\scss\bootstrap\scss\forms\_labels.scss
+++_validation.scss
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\home\scss\bootstrap\scss\forms\_validation.scss
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\assest\scss\bootstrap\scss\forms\_validation.scss
+++_clearfix.scss
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\home\scss\bootstrap\scss\helpers\_clearfix.scss
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\home\scss\bootstrap\scss\mixins\_clearfix.scss
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\assest\scss\bootstrap\scss\helpers\_clearfix.scss
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\assest\scss\bootstrap\scss\mixins\_clearfix.scss
+++_colored-links.scss
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\home\scss\bootstrap\scss\helpers\_colored-links.scss
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\assest\scss\bootstrap\scss\helpers\_colored-links.scss
+++_position.scss
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\home\scss\bootstrap\scss\helpers\_position.scss
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\assest\scss\bootstrap\scss\helpers\_position.scss
+++_ratio.scss
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\home\scss\bootstrap\scss\helpers\_ratio.scss
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\assest\scss\bootstrap\scss\helpers\_ratio.scss
+++_stretched-link.scss
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\home\scss\bootstrap\scss\helpers\_stretched-link.scss
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\assest\scss\bootstrap\scss\helpers\_stretched-link.scss
+++_text-truncation.scss
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\home\scss\bootstrap\scss\helpers\_text-truncation.scss
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\assest\scss\bootstrap\scss\helpers\_text-truncation.scss
+++_visually-hidden.scss
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\home\scss\bootstrap\scss\helpers\_visually-hidden.scss
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\home\scss\bootstrap\scss\mixins\_visually-hidden.scss
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\assest\scss\bootstrap\scss\helpers\_visually-hidden.scss
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\assest\scss\bootstrap\scss\mixins\_visually-hidden.scss
+++_border-radius.scss
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\home\scss\bootstrap\scss\mixins\_border-radius.scss
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\assest\scss\bootstrap\scss\mixins\_border-radius.scss
+++_box-shadow.scss
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\home\scss\bootstrap\scss\mixins\_box-shadow.scss
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\assest\scss\bootstrap\scss\mixins\_box-shadow.scss
+++_breakpoints.scss
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\home\scss\bootstrap\scss\mixins\_breakpoints.scss
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\assest\scss\bootstrap\scss\mixins\_breakpoints.scss
+++_caret.scss
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\home\scss\bootstrap\scss\mixins\_caret.scss
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\assest\scss\bootstrap\scss\mixins\_caret.scss
+++_color-scheme.scss
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\home\scss\bootstrap\scss\mixins\_color-scheme.scss
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\assest\scss\bootstrap\scss\mixins\_color-scheme.scss
+++_container.scss
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\home\scss\bootstrap\scss\mixins\_container.scss
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\assest\scss\bootstrap\scss\mixins\_container.scss
+++_deprecate.scss
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\home\scss\bootstrap\scss\mixins\_deprecate.scss
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\assest\scss\bootstrap\scss\mixins\_deprecate.scss
+++_gradients.scss
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\home\scss\bootstrap\scss\mixins\_gradients.scss
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\assest\scss\bootstrap\scss\mixins\_gradients.scss
+++_image.scss
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\home\scss\bootstrap\scss\mixins\_image.scss
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\assest\scss\bootstrap\scss\mixins\_image.scss
+++_lists.scss
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\home\scss\bootstrap\scss\mixins\_lists.scss
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\assest\scss\bootstrap\scss\mixins\_lists.scss
+++_reset-text.scss
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\home\scss\bootstrap\scss\mixins\_reset-text.scss
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\assest\scss\bootstrap\scss\mixins\_reset-text.scss
+++_resize.scss
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\home\scss\bootstrap\scss\mixins\_resize.scss
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\assest\scss\bootstrap\scss\mixins\_resize.scss
+++_table-variants.scss
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\home\scss\bootstrap\scss\mixins\_table-variants.scss
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\assest\scss\bootstrap\scss\mixins\_table-variants.scss
+++_text-truncate.scss
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\home\scss\bootstrap\scss\mixins\_text-truncate.scss
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\assest\scss\bootstrap\scss\mixins\_text-truncate.scss
+++_transition.scss
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\home\scss\bootstrap\scss\mixins\_transition.scss
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\assest\scss\bootstrap\scss\mixins\_transition.scss
+++_api.scss
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\home\scss\bootstrap\scss\utilities\_api.scss
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\assest\scss\bootstrap\scss\utilities\_api.scss
+++_rfs.scss
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\home\scss\bootstrap\scss\vendor\_rfs.scss
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\assest\scss\bootstrap\scss\vendor\_rfs.scss
+++tempusdominus-bootstrap-4.min.css
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\assest\lib\tempusdominus\css\tempusdominus-bootstrap-4.min.css
+++tempusdominus-bootstrap-4.min.js
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\assest\lib\tempusdominus\js\tempusdominus-bootstrap-4.min.js
+++bootstrap.css.map
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\home\lib\bootstrap\dist\css\bootstrap.css.map
+++bootstrap-grid.css.map
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\home\lib\bootstrap\dist\css\bootstrap-grid.css.map
+++bootstrap-grid.min.css
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\home\lib\bootstrap\dist\css\bootstrap-grid.min.css
+++bootstrap-reboot.css.map
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\home\lib\bootstrap\dist\css\bootstrap-reboot.css.map
+++bootstrap-reboot.min.css
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\home\lib\bootstrap\dist\css\bootstrap-reboot.min.css
+++bootstrap.bundle.js
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\home\lib\bootstrap\dist\js\bootstrap.bundle.js
+++bootstrap.js.map
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\home\lib\bootstrap\dist\js\bootstrap.js.map
+++bootstrap.min.js
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\home\lib\bootstrap\dist\js\bootstrap.min.js
+++jquery.min.map
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\home\lib\jquery\dist\jquery.min.map
+++bootstrap.min.css.map
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\home\lib\bootstrap\dist\css\bootstrap.min.css.map
+++bootstrap-grid.min.css.map
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\home\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
+++bootstrap-reboot.min.css.map
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\home\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
+++bootstrap.bundle.js.map
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\home\lib\bootstrap\dist\js\bootstrap.bundle.js.map
+++bootstrap.bundle.min.js
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\home\lib\bootstrap\dist\js\bootstrap.bundle.min.js
+++bootstrap.min.js.map
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\home\lib\bootstrap\dist\js\bootstrap.min.js.map
+++bootstrap.bundle.min.js.map
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\wwwroot\home\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
+++web.config
+i:{1a578b49-6426-4897-80c1-8c136b5a2c37}:c:\users\malla\source\repos\first project\first project\web.config

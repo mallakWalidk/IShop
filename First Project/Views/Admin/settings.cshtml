@@ -1,0 +1,65 @@
+﻿@model First_Project.Models.User
+
+@{
+    ViewData["Title"] = "settings";
+    Layout = "~/Views/Shared/AdminLayout.cshtml";
+}
+
+<form asp-action="settings" enctype="multipart/form-data">
+
+
+         
+  <div class="form-row">
+
+                 <img src=@Url.Content("~/Image/" + @Model.ImagePath ) 
+                asp-append-version ="true" style="border-radius:20%; border-color:black;  text-align: center; " width="100" height="100" />
+                 <input type="hidden" asp-for="ImagePath" value=@ViewBag.ImagePath  />
+
+            <div class="form-group col-md-4 mb-3">
+                <label asp-for="ImageFile" class="control-label">Change Profile</label>
+                <input asp-for="ImageFile" class="form-control" />
+                <span asp-validation-for="ImageFile" class="text-danger"></span>
+            </div>
+
+               
+            <input type="hidden" asp-for="Id" value=@Model.Id />
+
+
+    <div class="col-md-4 mb-3">
+      <label for="validationDefault01">Full Name</label>
+      <input type="text" asp-for="FullName" class="form-control" id="validationDefault01" placeholder="Full Name" value=@Model.FullName required>
+    </div>
+
+    <div class="col-md-4 mb-3">
+      <label for="validationDefault08">Birthdate</label>
+      <input type="date" asp-for="Birthdate" class="form-control" id="validationDefault08" placeholder="Birthdate" value=@Html.ValueFor(model => model.Birthdate, "{0:yyyy-MM-dd}") required>
+    </div>
+
+
+        <div class="col-md-4 mb-3">
+      <label for="validationDefault03">E-mail</label>
+      <input type="email" asp-for="Email" class="form-control" id="validationDefault03" placeholder="E-mail" value=@Model.Email required>
+    </div>
+
+        <div class="col-md-4 mb-3">
+      <label for="validationDefault05">Address</label>
+      <input type="text"  asp-for="Address" class="form-control" id="validationDefault05" placeholder="Address" value=@Model.Address >
+    </div>
+
+            <div class="col-md-4 mb-3">
+      <label for="validationDefault06">City</label>
+      <input type="text"  asp-for="City" class="form-control" id="validationDefault06" placeholder="City" value=@Model.City >
+    </div>
+
+                <div class="col-md-4 mb-3">
+      <label for="validationDefault07">PhoneNumber</label>
+      <input type="text"  asp-for="PhoneNumber" class="form-control" id="validationDefault07" placeholder="PhoneNumber" value=@Model.PhoneNumber required>
+    </div>
+
+
+
+ </div>
+
+  <button class="btn btn-primary" type="submit"> Save</button>
+</form>
+

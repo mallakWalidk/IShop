@@ -1,0 +1,53 @@
+﻿@model IEnumerable<First_Project.Models.Product>  
+@{
+    Layout="~/Views/Shared/_Layout1.cshtml";
+}    
+
+
+     <!-- Page Header Start -->
+    <div class="container-fluid bg-dark bg-img p-5 mb-5">
+        <div class="row">
+            <div class="col-12 text-center">
+                <h1 class="display-4 text-uppercase text-white"> Produts </h1>
+            </div>
+        </div>
+    </div>
+    <!-- Page Header End -->
+
+    <!-- Contact Start -->
+    <div class="container-fluid contact position-relative px-5" style="margin-top: 90px;">
+        <div class="container">
+            <div class="row g-5 mb-5">
+
+               @foreach (var item in Model)
+                { 
+              @*  <div class="col-lg-4 col-md-6">
+                    <div class="bg-primary border-inner text-center text-white p-5">
+                        <img class="img-fluid" src=@Url.Content("~/Image/" + item.ImagePath)  alt="" style="width: 150px; height: 85px;">
+                      <span>@item.Name</span>
+                    </div>
+                </div>*@
+          <div class="col-lg-4 col-md-6">
+         <div class="bg-primary border-inner text-center text-white p-5">
+<div class="card" style="width: 18rem;">
+  <img class="card-img-top" src=@Url.Content("~/Image/" + item.ImagePath) alt="Card image cap" style="width: 280px; height:300px;">
+  <div class="card-body">
+    <h5 class="card-title">@item.Name</h5>
+  </div>
+  <ul class="list-group list-group-flush">
+    <li class="list-group-item">Price: @item.Price JD</li>
+    <li class="list-group-item">Category: @item.Category.Name </li>
+  </ul>
+             <div class="mt-3 mb-3"> <button class="btn btn-dark btn-block">  <a href="/Home/product/@item.Id"> Buy Now </a>  </button> </div>
+
+</div>
+         </div>
+         </div>
+                }
+
+
+            </div>
+
+        </div>
+    </div>
+    <!-- Contact End -->
